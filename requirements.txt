@@ -1,0 +1,14 @@
+pydantic
+ipykernel
+langchain
+langchain_community
+langgraph
+langchain_core
+langchain_groq
+python-dotenv
+langgraph-cli[inmem]
+langchain_huggingface
+faiss-cpu
+sentence-transformers
+bs4
+requests
