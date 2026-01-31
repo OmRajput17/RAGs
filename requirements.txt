@@ -13,3 +13,4 @@ sentence-transformers
 bs4
 requests
 tiktoken
+python-dotenv
